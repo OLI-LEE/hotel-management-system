@@ -4,6 +4,8 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>關於我們</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
 <style type="text/css">
    
@@ -28,7 +30,7 @@ table{
       width:15%;
       height: 90px;
       display: block;
-      background-image: url(00.png) ;
+      background-image: url(image/00.png) ;
       padding-top: 5px;
       padding-bottom: 5px;
       border-radius:20px;
@@ -82,6 +84,8 @@ a.nav1:hover, a:active{
 th:hover {
             background-color: #FFFF59;
         }
+
+
 #box{
    position: center;
    background-color:  #274C77;
@@ -125,7 +129,6 @@ th:hover {
   padding: 10px;
 }
 
-  
   </style>
 
 <body>
@@ -141,13 +144,13 @@ th:hover {
 <hr>
 <center>
  <div id="box">
- <h1>組員介紹：第七組</h1>
+ <h3>組員介紹：第七組</h3>
 </div>
 <hr>
 <br>
     <table border="0" align="center" width="95%" div id="div7">
        <tr>
-       <td> <img src="666.jpg" width="100%"> </td>
+       <td> <img src="image/666.jpg" width="100%"> </td>
        </tr>
        <tr>
        <th>資圖三B </th>
@@ -165,7 +168,7 @@ th:hover {
 
      <table border="0" align="center" width="95%" div id="div8">
        <tr>
-       <td> <img src="63.jpg" width="100%"> </td>
+       <td> <img src="image/63.jpg" width="100%"> </td>
        </tr>
        <tr>
        <th>資圖三B </th>
@@ -182,7 +185,7 @@ th:hover {
 
       <table border="0" align="center" width="95%" div id="div9">
        <tr>
-       <td> <img src="757.jpg" width="100%"> </td>
+       <td> <img src="image/757.jpg" width="100%"> </td>
        </tr>
        <tr>
        <th>資圖三B </th>
@@ -198,7 +201,7 @@ th:hover {
 
     <table border="0" align="center" width="95%"  div id="div7">
        <tr>
-       <td> <img src="62.jpg" width="100%"> </td>
+       <td> <img src="image/62.jpg" width="100%"> </td>
        </tr>
        <tr>
        <th>資圖三B </th>
@@ -214,7 +217,7 @@ th:hover {
 
      <table border="0" align="center" width="95%" div id="div8">
        <tr>
-       <td> <img src="65.jpg" width="100%"> </td>
+       <td> <img src="image/65.jpg" width="100%"> </td>
        </tr>
        <tr>
        <th>資圖三B </th>
@@ -230,7 +233,7 @@ th:hover {
 
       <table border="0" align="center" width="95%" div id="div9">
        <tr>
-       <td> <img src="61.jpg" width="100%"> </td>
+       <td> <img src="image/61.jpg" width="100%"> </td>
        </tr>
        <tr>
        <th>資圖三B </th>
@@ -254,7 +257,7 @@ th:hover {
 
 
 <div id="box">
-<h2>書面報告</h2>
+ <h3>書面報告</h3>
 </div>
 </center>
 

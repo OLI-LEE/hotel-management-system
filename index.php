@@ -13,14 +13,14 @@
 <style type="text/css">
 
 /*注意*/
-html {
-          height: 100%;
+        html {
+            height: 100%;
         }
 
          body {
-  font-size: 22px;
+            font-size: 22px;
             background-image: 
-            linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.6)), url(a.jpg);
+            linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.6)), url(image/a.jpg);
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-position: center;
@@ -84,8 +84,8 @@ main {
 
 /*標題字體 大小 顏色*/
 #a{
- font-size: 120px;
- color: white;
+  font-size: 100px;
+  color: white;
 }
 
 /*中間那條*/
@@ -115,7 +115,7 @@ table{
   text-align:center;
   width:44%;
   display: block;
-  background-image: url(00.png) ;
+  background-image: url(image/00.png) ;
   padding-top: 5px;
   padding-bottom: 10px;
   border-radius:20px;
@@ -130,7 +130,7 @@ table{
           border:5px #E7ECEF solid;
           border-radius:15px;
           float:left;
-          background-image: url(01.png);
+          background-image: url(image/01.png);
           background-size: contain;
         }
 #div2{
@@ -141,7 +141,7 @@ table{
           border:5px #E7ECEF solid;
           border-radius:15px;
           float:left;
-          background-image: url(02.png);
+          background-image: url(image/02.png);
           background-size: contain;
         }
 #div3{
@@ -152,7 +152,7 @@ table{
           border:5px #E7ECEF solid;
           border-radius:15px;
           float:left;
-          background-image: url(03.png);
+          background-image: url(image/03.png);
           background-size: contain;
         }
 #div4{
@@ -163,7 +163,7 @@ table{
           border:5px #E7ECEF solid;
           border-radius:15px;
           float:left;
-          background-image: url(04.png);
+          background-image: url(image/04.png);
           background-size: contain;
         }
 #div5{
@@ -174,7 +174,7 @@ table{
           border:5px #E7ECEF  solid;
           border-radius:15px;
           float:left;
-          background-image: url(05.png);
+          background-image: url(image/05.png);
           background-size: contain;
         }
 #div6{
@@ -185,7 +185,7 @@ table{
           border:5px #E7ECEF solid;
           border-radius:15px;
           float:left;
-          background-image: url(06.png);
+          background-image: url(image/06.png);
           background-size: contain;
         }
 
@@ -221,7 +221,8 @@ a.nav:hover, a:active{
   color: white;
   text-align: center;
   background: #274C77;
-  padding: 10px;
+  padding: 1px;
+  height: auto;:
 }
 </style>
 

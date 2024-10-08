@@ -1,112 +1,13 @@
-36155<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>訂單模式</title>
+
+     <link rel="stylesheet" href="style.css">
 </head>
 
-<style type="text/css">
-body{
-      background: #A3CEF1 ;
-      font-size: 22px;
-}
-
-table{
-      position: top ;
-      margin-right: auto;
-      margin-left: auto;
-      font-size: 18px;
-      background: #E7ECEF ;
-      text-align:center;    
-}
-
-#div0{
-      color: black;
-      text-align:center;
-      width:18%;
-      height: 90px;
-      display: block;
-      background-image: url(00.png) ;
-      padding-top: 5px;
-      padding-bottom: 5px;
-      border-radius:20px;
-      margin: left ;
-       background-size: 170%;
-}
-#div1{
-      color: black;
-      text-align:center;
-      width:15%;
-      display: block;
-      background-color: #274C77;
-      padding-top: 5px;
-      padding-bottom: 5px;
-      border-radius:20px;
-      margin: left ;
-
-      position: absolute;
-      width: 200px;
-      height: 80px;
-      left: 300px;
-      top: 40px;
-}
-#div2{
-      color: black;
-      text-align:center;
-      width:15%;
-      display: block;
-      background-color: #274C77;
-      padding-top: 5px;
-      padding-bottom: 5px;
-      border-radius:20px;
-      margin: left ;
-
-      position: absolute;
-      width: 200px;
-      height: 80px;
-      left: 530px;
-      top: 40px;
-}
-a.nav0{
-            padding:10px 20px;
-            text-decoration:none;
-            background-color:white;
-            opacity: 0.9;
-            color:black;
-            border-radius:20px;  
-            line-height:15px;
-            }
-a.nav1{
-            padding:20px 20px;
-            text-decoration:none;
-            background-color:white;
-            opacity: 0.9;
-            color:black;
-            border-radius:20px;  
-            line-height:80px;
-            font-weight: bold;
-            }
-a.nav1:hover, a:active{
-    background-color:   #FFFF59 ;
-}
-
-td:hover {
-            background-color: #FFFF59;
-        }
-#box{
-   position: center;
-   background-color:  #545454  ;
- }
- .footer{
-  color: white;
-  text-align: center;
-  background: #274C77;
-  padding: 10px;
-}
-
-
-</style>
 
 <body>
 
