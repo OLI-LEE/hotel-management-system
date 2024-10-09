@@ -51,8 +51,7 @@ A hotel-management-system developed using PHP and MySQL.
 
 ## 專題文件
 
-- [資料庫設計書面報告](資料庫設計書面報告.pdf)
-- [資料庫系統簡報](資料庫系統簡報.pdf)
+- [資料庫書面報告](資料庫期末書面報告.pdf)
 
 
 
