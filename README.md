@@ -49,5 +49,11 @@ A hotel-management-system developed using PHP and MySQL.
 ├── 完成中介資料表的新增與刪除功能。  
 └── 整合系統開發，包括資料庫的 CRUD 功能及 UI/UX 優化，並於期末報告中展示。
 
+## 專題文件
+
+- [資料庫設計書面報告](資料庫設計書面報告.pdf)
+- [資料庫系統簡報](資料庫系統簡報.pdf)
+
+
 
 
